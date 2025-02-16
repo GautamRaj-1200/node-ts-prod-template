@@ -1,1 +1,1 @@
-console.log("Index Server");
+console.log('Index Server');
