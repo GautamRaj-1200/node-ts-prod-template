@@ -21,5 +21,8 @@ app.get('/health', (req: Request, res: Response) => {
     res.status(200).json({ status: 'OK' })
 })
 
+import apiRouter from './router/apiRouter.js'
+//routes
+app.use('/api/v1', apiRouter)
 export default app
 
