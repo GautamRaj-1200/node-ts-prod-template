@@ -5,3 +5,4 @@
 - Prettier
 - Husky
 - Different Environments
+- .env
