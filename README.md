@@ -4,5 +4,6 @@
 - EsLint
 - Prettier
 - Husky
+- Lint-staged
 - Different Environments
 - .env
