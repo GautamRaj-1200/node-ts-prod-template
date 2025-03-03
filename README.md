@@ -7,3 +7,4 @@
 - Lint-staged
 - Different Environments
 - .env
+- nodemon
