@@ -9,3 +9,4 @@
 - .env
 - nodemon
 - mongo
+- Commitlint
